@@ -18,7 +18,7 @@
 ![ExpiringStateTest](https://github.com/LomakinaAD/Data_Base_Course/assets/113554667/167d40ca-6aa6-4235-b60c-f91eebbc4017)
 
 # 4. HourlyTipsExerxise
-![photo_2024-05-03_01-04-44](https://github.com/LomakinaAD/Data_Base_Course/assets/113554667/805808be-fa89-4ed3-ad14-5da2fb1bd1e4)
+![photo_2024-05-03_01-06-06](https://github.com/LomakinaAD/Data_Base_Course/assets/113554667/61f974e0-f1a9-430a-92e4-750787f5f962)
 
 
 
