@@ -23,6 +23,10 @@
 
 
 
+![IMG_1194 (2)](https://github.com/LomakinaAD/Data_Base_Course/assets/113554667/df1afc34-bff3-4074-9dfd-d0bb1304a9c3)
+![IMG_1193 (2)](https://github.com/LomakinaAD/Data_Base_Course/assets/113554667/5ab5d893-a94a-4724-831f-48e90f185356)
+![IMG_1192 (2)](https://github.com/LomakinaAD/Data_Base_Course/assets/113554667/924bc504-adc5-44d1-919c-2ec0a5f4a6ed)
+![IMG_1195 (2)](https://github.com/LomakinaAD/Data_Base_Course/assets/113554667/5f0b3857-9c3a-48eb-b18c-0068c5e3de5c)
 
 
 
