@@ -17,6 +17,8 @@
 # 4. ExpiringStateExercise
 ![ExpiringStateTest](https://github.com/LomakinaAD/Data_Base_Course/assets/113554667/167d40ca-6aa6-4235-b60c-f91eebbc4017)
 
+# 4. HourlyTipsExerxise
+![photo_2024-05-03_00-30-56](https://github.com/LomakinaAD/Data_Base_Course/assets/113554667/74538e61-8594-4e25-9f4d-2321e3108f1f)
 
 
 
