@@ -7,11 +7,18 @@
 - HourlyTipsExerxise
 - ExpiringStateExercise
 
-## 1. RideCleanisingExercise
-## 2. RidesAndFaresExercise
-## 3. HourlyTipsExerxise
-   ![IMG_1188](https://github.com/LomakinaAD/Data_Base_Course/assets/113554667/0d5e25e4-af27-4f91-be20-8f7bf8fa79b8)
-## 4. ExpiringStateExercise
+# Результаты проверки теста пердставлены ниже:
+# 1. RideCleanisingExercise
+![RideCleaningTest](https://github.com/LomakinaAD/Data_Base_Course/assets/113554667/c5048023-578c-445a-ae9d-e342017caf6d)
+
+# 2. RidesAndFaresExercise
+![RidesAndFaresTest](https://github.com/LomakinaAD/Data_Base_Course/assets/113554667/f80e58df-57f7-423a-a242-c59cd564f3d8)
+
+# 4. ExpiringStateExercise
+![ExpiringStateTest](https://github.com/LomakinaAD/Data_Base_Course/assets/113554667/167d40ca-6aa6-4235-b60c-f91eebbc4017)
+
+
+
 
 
 
